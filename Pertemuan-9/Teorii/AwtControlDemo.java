@@ -1,6 +1,6 @@
 //Nama 	: Rizki Pratama Firdaus
 //Kelas 	: A11.4418
-//NIM 	:  A11.2019.12220
+//NIM 	:  A11.2019.12220.
 import java.awt.*;
 import java.awt.event.*;
 
